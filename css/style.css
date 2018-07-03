@@ -1,0 +1,114 @@
+nav {
+    margin-top: 20px;
+}
+
+.nav-body h1{
+    font-size: 30px;
+}
+.nav-list ul li{
+    list-style-type: none;
+    
+    color: #4A235A;
+    font-size: 18px;
+    display:inline;
+   
+
+}
+
+.nav-list ul li a{
+    margin-top: 0px;
+    text-decoration: none;
+
+}
+
+.famous{
+    margin-bottom: 40px;
+}
+.famous h1{
+    text-align: center;
+    padding: 50px 0px 10px 50px;
+    font-size: 40px;
+    font-family: 'Montserrat';
+}
+
+.img2 img{
+    width: 300px;
+    height: 250px;
+
+}
+
+.img2 img:hover{
+    opacity: 0.8;
+}
+
+.img2 h2{
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat';
+}
+.img1{
+    
+    width: 100%;
+    margin: auto;
+}
+
+.pexels img{
+    width: 459px;
+}
+
+.pexels-info {
+    font-family: 'Montserrat';
+}
+
+.foot-col{
+    float: left;
+    display: inline;
+    margin-right: 10px;
+    
+    
+}
+
+.foot{
+    margin-top: 15px;
+}
+
+.foot-col i{
+   margin-right: 15px;
+   size: 15px;
+}
+
+footer{
+    background-color: grey;
+}
+
+footer ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+footer ul {
+
+    list-style-type: none;
+
+}
+
+.history h4{
+    text-align: justify;
+    font-size: 24px;
+    font-family: sans-serif;
+    margin:20px;
+    
+    
+
+}
+body{
+    background-color: plum;
+}
+
+
+.imgabout img{
+    width: 100%;
+    height: 50%;
+}
+
+
